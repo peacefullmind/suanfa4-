@@ -1,0 +1,3 @@
+D:/PAIXUC++/main4Quick/cmake-build-debug/CMakeFiles/main4Quick.dir
+D:/PAIXUC++/main4Quick/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PAIXUC++/main4Quick/cmake-build-debug/CMakeFiles/rebuild_cache.dir

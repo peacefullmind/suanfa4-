@@ -1,0 +1,3 @@
+"D:\SOFTWARE\Program Files2\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\mergePro.dir/objects.a
+D:\SOFTWARE\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\mergePro.dir/objects.a @CMakeFiles\mergePro.dir\objects1.rsp
+D:\SOFTWARE\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\mergePro.dir/objects.a -Wl,--no-whole-archive  -o mergePro.exe -Wl,--out-implib,libmergePro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mergePro.dir\linklibs.rsp

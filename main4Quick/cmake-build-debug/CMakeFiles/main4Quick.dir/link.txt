@@ -1,0 +1,3 @@
+"D:\SOFTWARE\Program Files2\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\main4Quick.dir/objects.a
+D:\SOFTWARE\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\ar.exe cr CMakeFiles\main4Quick.dir/objects.a @CMakeFiles\main4Quick.dir\objects1.rsp
+D:\SOFTWARE\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\main4Quick.dir/objects.a -Wl,--no-whole-archive  -o main4Quick.exe -Wl,--out-implib,libmain4Quick.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main4Quick.dir\linklibs.rsp
